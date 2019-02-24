@@ -1,0 +1,81 @@
+	  **** Exporting & Importing of JSON Objects ****
+
+	- As a Node Developer we can export the json obejcts.
+
+	- As a Node Developer we can import "any exported"
+	  JSON Objects.
+
+	- module is the predefined object in Node.
+
+	- exports is the predefined key in module object.
+
+	- exports key used to export the json objects 
+
+
+Ex_1.
+
+**************************************
+JSON Export
+
+	config
+
+	   db_config.js
+
+	server.js
+**************************************
+
+
+Ex_2.
+
+
+****************************************
+Export JSON
+
+	config
+
+	   db_connection.js
+
+	server.js
+****************************************
+
+
+	***** Exporting and Importing the Functions *****
+
+
+
+Ex_3.
+
+	**********************
+	Function Export
+
+		config
+
+		  my.fun.js
+
+		server.js
+	**********************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

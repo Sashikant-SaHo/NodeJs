@@ -1,0 +1,45 @@
+Ex_1:
+	download the following modules by using yarn.
+
+
+1) express
+
+2) mysql
+
+3) mongodb@2.2.32
+
+4) multer
+
+5) jwt-simple
+
+> yarn add express --save
+
+> yarn add mysql --save
+
+> yarn add mongodb@2.2.32 --save
+
+> yarn add multer --save
+
+> yarn add jwt-simple --save
+
+
+Ex_2 : Implement the Http Server
+
+
+Ex_3: read the get parameters in http server
+
+	Ex.
+		http://
+		localhost:
+		8080/?
+		uname=admin&
+	upwd=admin
+
+
+
+
+
+
+
+
+

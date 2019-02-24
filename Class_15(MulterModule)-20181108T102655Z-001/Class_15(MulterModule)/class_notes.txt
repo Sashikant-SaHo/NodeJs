@@ -1,0 +1,10 @@
+Multer Module:
+--------------
+
+	- Multer Module is the 3rd party Module.
+
+	- Multer Module is used to upload the images to the Server.
+
+	- We Can Download the Multer Module by using following Command.
+
+		> yarn add multer --save

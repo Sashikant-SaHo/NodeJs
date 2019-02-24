@@ -1,0 +1,102 @@
+Step 1.
+	make the mysql ready for authentication.
+
+
+> use nodedb;
+
+> create table login_details(uname varchar(20),upwd varchar(20));
+
+> insert into login_details values("admin","admin");
+
+> select * from login_details;
+
+
+************************************
+host : localhost
+
+user : root
+
+password : root
+
+database : nodedb
+************************************
+
+
+Step 2.
+	download the node modules
+
+
+1) express
+
+
+2) mysql
+
+
+3) body-parser
+
+
+4) jwt-simple
+
+
+	- express module used to develop the Rest API'S.
+
+	- mysql module used to interact with the MySQL DataBase.
+
+	- body-parser module used to read the Post Parameters.
+
+	- jwt-simple module used to generate the token.
+
+
+> yarn add express --save
+
+> yarn add mysql --save
+
+> yarn add body-parser --save
+
+> yarn add jwt-simple --save
+
+
+Step 3.
+	implement the Node Application
+
+
+
+*******************************
+Login
+     config
+	  db_properties.js
+	  db_connection.js
+
+     token
+	 token.js
+
+     login
+	 login.js
+
+     server.js
+********************************
+
+	- "db_properties.js" file used to maintain the database properties.
+
+	- "db_connection.js" file used to create the mysql connection object.
+
+	- "token.js" file used to generate the token.
+
+	- "login.js" file used to implement the login module.
+
+	- "server.js" file is the main server file. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

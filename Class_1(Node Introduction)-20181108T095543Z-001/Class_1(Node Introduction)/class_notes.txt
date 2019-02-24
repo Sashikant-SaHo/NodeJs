@@ -1,0 +1,302 @@
+			*** Introduction to NodeJS ***
+
+	- NodeJS is the server side scripting language.
+
+	- NodeJS Used to develop the both Http & TCP Servers.
+
+	- We Can Develop Node Applications by using JavaScript.
+
+	- Node Applications are Single Threaded Applications.
+
+	- Node Supports the Modules (Predefined Modules & Custom Modules)
+
+
+Modules in NodeJS
+-----------------
+1) http
+	- this module is the native module.
+
+	- this module available along with the node engine.
+	
+	- this module used to develop the http servers.
+
+
+
+2) url
+	- this module also native module.
+
+	- this module used to read the get parameters in http servers.
+
+
+
+3) querystring
+
+	- this module also native module.
+
+	- this module used to read the post parameters in http servers.
+
+
+4) fs
+	- this module also native module.
+
+	- fs stands for file system.
+
+	- fs module used to interact with the flat files.
+
+		Ex.
+			Text Files
+			
+			XML Files
+
+			JSON Files
+
+			   ---
+			   ---
+			   ---
+
+
+5) express
+
+	- this module is the 3rd party module.
+
+	- this module used to develop the Rest API'S (WebServices).
+
+
+[Note : providing the communication between different technologies called as
+	webservices.]
+
+
+6) mysql
+	- this module used to interact with the mysql database.
+
+
+
+7) mongodb
+	- this module used to interact with the mongodb without schema
+	
+[Note : rules & regulations of db called as schema]
+
+
+8) mongoose
+	- this module used to interact with the mongodb with schema
+
+
+9) mssql
+	- this module used to interact with sql server.
+
+
+10) multer
+	- this module used to upload the images to the server.
+
+
+11) socket.io
+	- this module used to develop the chat applications.
+
+
+
+12) jwt-simple
+	- this module used to generate the tokens.
+
+	- generally we will use tokens for authentication purpose.
+
+	- this system technically called as Token Based Authentication System.
+
+
+13) body-parser
+
+	- this module used to set the MIME Type in ExpressJS.
+		Ex.
+			Text
+			XML
+			JSON
+			 --
+			 --
+			 --
+
+
+14) cluster
+
+	- this module used to implement the child processes in http Server.
+
+	- implementing the child processes also called as load balancing.
+
+
+
+15) express-cluster
+
+	- this module used to implement the load balancing in Rest API'S
+
+
+
+16) cookie-parser
+
+	- this module used to work with the cookies.
+
+
+
+  - we can download all the 3rd party node modules by using either "npm" or
+    "yarn" tool.
+
+  - "npm" stands for node packaging manager.
+
+  - "npm" is the integrated tool of node js.
+
+  - yarn is the latest tool, used to download the node modules in fatser manner  
+    compared to "npm".
+
+  - all the node modules will be downloads to "node_modules" folder in current path.
+	
+  - we can start the node server in 3 ways.
+
+	> node server
+
+	> npm start
+
+	> nodemon server (starting the server in watch mode)
+
+
+Installation of Softwares:
+--------------------------
+1) download and install NodeJS
+
+	website : https://nodejs.org/en/download/
+
+	file    : node-v8.11.3-x64.msi
+
+
+2) download and install Git
+
+	website : https://git-scm.com/download/win
+
+	file    : Git-2.18.0-64-bit.exe
+
+
+3) download and install VisualStudioCode
+
+	website : https://code.visualstudio.com/docs/?dv=win
+
+	file    : VSCodeSetup-x64-1.25.1.exe
+
+
+4) install yarn packaging manager
+
+
+	> npm install -g yarn
+
+		- "-g" stands for global installation.
+
+
+5) download and install Postman.		
+
+	- Postman is the tool, used to test the Rest API'S.
+
+
+website : https://www.getpostman.com/apps
+
+file    : Postman-win64-6.2.4-Setup.exe
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+   
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

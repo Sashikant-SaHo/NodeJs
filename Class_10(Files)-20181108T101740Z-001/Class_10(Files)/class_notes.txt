@@ -1,0 +1,12 @@
+Deleting the Content From File:
+-------------------------------
+
+	truncate(-,-,-) is the predefined function in "fs" module used to 
+	delete the content from file.
+
+
+
+Delete the File:
+----------------
+
+	unlink(-,-) is the predefined function used to delete the File.

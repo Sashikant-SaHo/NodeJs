@@ -1,0 +1,64 @@
+            Reading Post Parameters in ExpressJS
+
+Step 1:
+    download the following node modules.
+
+1) express
+2) body-parser
+    - express module used to develop 
+      the Rest API.
+    - body-parser module used to 
+      read the POST Parameters.
+> yarn add express --save
+> yarn add body-parser --save
+
+Step 2:
+    develop the Node Server
+
+server.js 
+
+
+Step 3:
+    start the server
+
+> nodemon server
+    - automatically server 
+      will start in watch mode
+
+
+Step 4:
+    Test the Following Rest API By 
+    Using Postman.
+
+=> http://localhost:8080/login (POST Request) 
+
+
+
+    Reading the Post Parameters From Forms
+    --------------------------------------
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
